@@ -9,7 +9,7 @@ I study Data Science and Artificial Intelligence (DAISY) at Hochschule Düsseldo
 | **[From Track to Toll](https://github.com/41yannik/Ocean-Data-Visualisation)** · [live](https://ozeanvisualisierung.yannik-h-huber.de) | Interactive data story: do Pacific cyclones explain who suffers most? Built for the Pacific Dataviz Challenge 2026 | D3, Vite, Python pipeline, Playwright |
 | **[ActNow](https://github.com/41yannik/ActNow)** · [live](https://actnow.yannik-h-huber.de) | Volunteer matching platform with helper and organisation views | SvelteKit, Svelte 5, TypeScript, Supabase |
 | **[Particle Life](https://github.com/41yannik/Particle-Life)** · [live](https://huggingface.co/spaces/41yannik/particle-life) | Emergent-behaviour simulation, 127x faster physics via spatial hashing and Numba | Python, NumPy, Numba, Vispy |
-| **[Gesture Recognition](https://github.com/41yannik/GestureRecognitionMPT)** | Air-written letters from webcam video, 92 % accuracy with one HMM per letter | MediaPipe, hmmlearn, OpenCV |
+| **[Gesture Recognition](https://github.com/41yannik/GestureRecognitionMPT)** · [live](https://huggingface.co/spaces/41yannik/air-writing-recognition) | Air-written letters from webcam video, 92 % accuracy with one HMM per letter | MediaPipe, hmmlearn, OpenCV |
 
 ## Currently building
 
