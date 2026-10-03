@@ -8,12 +8,12 @@ I study Data Science and Artificial Intelligence (DAISY) at Hochschule Düsseldo
 |---|---|---|
 | **[From Track to Toll](https://github.com/41yannik/Ocean-Data-Visualisation)** · [live](https://ozeanvisualisierung.yannik-h-huber.de) | Interactive data story: do Pacific cyclones explain who suffers most? Built for the Pacific Dataviz Challenge 2026 | D3, Vite, Python pipeline, Playwright |
 | **[ActNow](https://github.com/41yannik/ActNow)** · [live](https://actnow.yannik-h-huber.de) | Volunteer matching platform with helper and organisation views | SvelteKit, Svelte 5, TypeScript, Supabase |
-| **[Particle Life](https://github.com/41yannik/Particle-Life)** | Emergent-behaviour simulation, 127x faster physics via spatial hashing and Numba | Python, NumPy, Numba, Vispy |
+| **[Particle Life](https://github.com/41yannik/Particle-Life)** · [live](https://huggingface.co/spaces/41yannik/particle-life) | Emergent-behaviour simulation, 127x faster physics via spatial hashing and Numba | Python, NumPy, Numba, Vispy |
 | **[Gesture Recognition](https://github.com/41yannik/GestureRecognitionMPT)** | Air-written letters from webcam video, 92 % accuracy with one HMM per letter | MediaPipe, hmmlearn, OpenCV |
 
 ## Currently building
 
-- **AI Session Monitor:** a privacy-first macOS menu-bar app that shows which local AI coding sessions are working, waiting or done (Swift)
+- **AI Session Monitor:** a privacy-first app that shows at a glance which AI coding sessions are working, waiting or done
 - **Agent orchestration:** tooling that lets one AI coding session plan, steer and review the work of others
 
 ## Tech
@@ -25,4 +25,4 @@ I study Data Science and Artificial Intelligence (DAISY) at Hochschule Düsseldo
 
 ## Contact
 
-[Website](https://yannik-h-huber.de) · [LinkedIn](https://www.linkedin.com/in/yannik-huber/) · [YouTube](https://www.youtube.com/@41yannik) · [Instagram](https://www.instagram.com/41yannik/)
+[Website](https://yannik-h-huber.de) · [LinkedIn](https://www.linkedin.com/in/yannik-huber/) · [Hugging Face](https://huggingface.co/41yannik) · [Kaggle](https://www.kaggle.com/yannik41) · [X](https://x.com/41yannik_) · [YouTube](https://www.youtube.com/@41yannik) · [Instagram](https://www.instagram.com/41yannik/)
